@@ -1,3 +1,9 @@
+// FCAI – Programming 1 - Assignment 3.
+// Author1: Hadeer Abdelnasser
+// Author2: Sara Walid
+// Author3: Howaida Adel
+// Teaching Assistant: Afaf Abdelmonem
+
 #include <iostream>
 #include <fstream>
 #include <cstring>
