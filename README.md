@@ -8,6 +8,8 @@ About BmpEditor Program :
 -----------------------
 * This is an image processing tool that can apply different filters to a bit map image of size 256 x 256.
 
+*  BmpEditor allow the user to load an image, choose the filter to apply and save to store the filter after specifying the name of the target file.
+
 * BmpEditor has 2 versions:
 
            1- Grey_Filtrs.cpp is a version that works with Grey images.
@@ -19,12 +21,12 @@ About BmpEditor Program :
   The library consists of two files bmplib.cpp and bmplib.h.
   
 Purpose: 
--------
+----------------------
 Demonstrate use of bmplip for handling bmp colored and grayscale images Program load a gray image and store in another file
 & It isPhotoShop Program that the user chooses filters to be applied on any image he wants to
 
-Filters:
-----------
+Types of filters:
+------------------------
 1- Black & White Filter.
 
 2- Invert Filter.
