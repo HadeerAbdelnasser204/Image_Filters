@@ -46,6 +46,4 @@ Demonstrate use of bmplip for handling bmp colored and grayscale images Program 
 
 
 
-
-  
-  
+ 
